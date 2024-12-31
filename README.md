@@ -51,11 +51,11 @@ const backendExpertise = {
 ## 📊 GitHub Stats
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connect-rizwan&layout=compact&theme=dracula&count_private=true&include_all_commits=true&langs_count=8)
+[//]: <![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connect-rizwan&layout=compact&theme=dracula&count_private=true&include_all_commits=true&langs_count=8)>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=connect-rizwan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=connect-rizwan&theme=dracula)](https://git.io/streak-stats)
+[//]: <[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=connect-rizwan&theme=dracula)](https://git.io/streak-stats)>
 
 [![Rizwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=connect-rizwan&theme=dracula)]
 
