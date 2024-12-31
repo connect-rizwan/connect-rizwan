@@ -51,13 +51,21 @@ const backendExpertise = {
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=connect-rizwan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+<p align="center">
+  <!-- Stats and Streak side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=connect-rizwan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connect-rizwan&theme=dracula" alt="GitHub Streak" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=connect-rizwan&theme=dracula)](https://git.io/streak-stats)
+<p align="center">
+  <!-- Top Languages centered and full width -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connect-rizwan&layout=compact&theme=dracula&count_private=true&include_all_commits=true&langs_count=8&card_width=1000" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connect-rizwan&layout=compact&theme=dracula&count_private=true&include_all_commits=true&langs_count=8)
-
-[![Rizwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=connect-rizwan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=connect-rizwan&theme=dracula" alt="GitHub Activity Graph" />
+</p>
 
 
 ## 🌱 Currently Learning
