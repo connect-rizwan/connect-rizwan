@@ -48,8 +48,10 @@ const backendExpertise = {
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=connect-rizwan&show_icons=true&theme=dracula)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=connect-rizwan&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connect-rizwan&layout=compact&theme=dracula)
 
 ## 🌱 Currently Learning
 - Advanced Flutter animations
