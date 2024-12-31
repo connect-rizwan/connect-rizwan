@@ -41,7 +41,7 @@ const backendExpertise = {
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=connect-rizwan&show_icons=true&theme=dracula)
 
 ## 🌱 Currently Learning
 
