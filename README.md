@@ -57,7 +57,7 @@ const backendExpertise = {
 
 [//]: <[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=connect-rizwan&theme=dracula)](https://git.io/streak-stats)>
 
-[![Rizwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=connect-rizwan&theme=dracula)]
+![Rizwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=connect-rizwan&theme=dracula)]
 
 ## 🌱 Currently Learning
 - Advanced Flutter animations
