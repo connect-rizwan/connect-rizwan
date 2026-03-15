@@ -116,18 +116,6 @@ const backendStack = {
 
 ---
 
-# 💰 Client Magnet Freelance Positioning
-
-## Why Clients Hire Me
-
-I don’t just complete tasks.
-
-I deliver:
-
-* Faster product launches
-* Lower long term maintenance cost
-* Future proof architecture
-* AI competitive advantage
 
 ## Risk Reversal Promise
 
